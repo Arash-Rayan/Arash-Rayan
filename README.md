@@ -1,4 +1,4 @@
-# Hi there, I'm Esmaeil! 👋
+# Hi there, I'm Esi! 👋
 
 I'm a MERN developer passionate about AI and machine learning.
 
