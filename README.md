@@ -19,6 +19,8 @@ I'm a MERN developer passionate about AI and machine learning.
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat-square&logo=data-science&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🧠 Knowledge
 
@@ -30,6 +32,8 @@ I'm a MERN developer passionate about AI and machine learning.
 - Socket.io
 - PostgreSQL, MySQL, MongoDB, Redis
 - Data Science & Machine Learning Intern
+- Docker
+- Linux
 
 ## 📈 GitHub Stats
 
