@@ -17,6 +17,8 @@ I'm a MERN developer passionate about AI and machine learning.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat-square&logo=data-science&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white)
 
 ## 🧠 Knowledge
 
