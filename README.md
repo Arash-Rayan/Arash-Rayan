@@ -13,8 +13,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat-square&logo=machine-learning&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat-square&logo=machine-learning&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-000000?style=flat-square&logo=data-science&logoColor=white)
 
 ## Knowledge
 
