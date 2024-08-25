@@ -24,7 +24,7 @@
 - Express.js & Fastify
 - Socket.io
 - PostgreSQL, MySQL, MongoDB, Redis
-- Data Science & Machine Learning
+- Data Science & Machine Learning INTERN
 - Docker
 - Linux
 
