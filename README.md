@@ -38,6 +38,7 @@ I'm a MERN developer passionate about AI and machine learning.
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Esmaeil-Mashhadi&show_icons=true&theme=radical)
+![Most Used Languages](path/to/your/image.png)
 
 ## 🌍 Connect with Me
 
