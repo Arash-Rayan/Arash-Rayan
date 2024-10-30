@@ -1,6 +1,10 @@
 # Esmaeil Mashhadi
 
-## Technologies & Tools
+Aspiring **Full-Stack Developer** (focused on **Frontend**) and **AI Engineer Intern**, passionate about building innovative solutions with web technologies and machine learning.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,24 +22,29 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat-square&logo=machine-learning&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-000000?style=flat-square&logo=data-science&logoColor=white)
 
-## Knowledge
+---
 
-- JavaScript & TypeScript
-- Python
-- React & Next.js
-- Express.js & Fastify
-- Socket.io
-- PostgreSQL, MySQL, MongoDB, Redis
-- Data Science & Machine Learning INTERN
-- Docker
-- Linux
+## 🧠 Skills & Knowledge
+
+- **Programming:** JavaScript, TypeScript, Python
+- **Web Development:** React, Next.js, Express.js, Fastify, Socket.io
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Data Science & Machine Learning:** Intern-level knowledge, actively learning & building projects
+- **DevOps:** Docker, Linux
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esmaeil-Mashhadi&show_icons=true&theme=radical) 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esmaeil-Mashhadi&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeil-Mashhadi&layout=compact&theme=radical)
+
+---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmaeil-mashhadi) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/alchemist_man/) [![CodeWars](https://www.codewars.com/users/Esmaeil-Mashhadi/badges/micro)](https://www.codewars.com/users/Esmaeil-Mashhadi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmaeil-mashhadi)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/alchemist_man/)  
+[![CodeWars](https://www.codewars.com/users/Esmaeil-Mashhadi/badges/micro)](https://www.codewars.com/users/Esmaeil-Mashhadi)
+
+---
