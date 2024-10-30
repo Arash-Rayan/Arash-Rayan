@@ -30,7 +30,7 @@ Aspiring **Full-Stack Developer** (focused on **Frontend**) and **AI Engineer In
 - **Web Development:** React, Next.js, Express.js, Fastify, Socket.io
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **Data Science & Machine Learning:** Intern-level knowledge, actively learning & building projects
-- **DevOps:** Docker, Linux
+- **Tools & Platforms:** Foundational knowledge of Docker and Linux
 
 ---
 
