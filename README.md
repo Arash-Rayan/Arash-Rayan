@@ -1,6 +1,6 @@
 # Esmaeil Mashhadi
 
-Aspiring **Full-Stack Developer** (focused on **Frontend**) and **AI Engineer Intern**, passionate about building innovative solutions with web technologies and machine learning.
+Aspiring **Full-Stack Developer and **AI Engineer Intern**, passionate about building innovative solutions with web technologies and machine learning.
 
 ---
 
