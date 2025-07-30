@@ -41,13 +41,13 @@ Aspiring **End-to-End AI Engineer** | Former Freelance Full-Stack Developer | Pa
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esmaeil-Mashhadi&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeil-Mashhadi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arash-Rayan&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-rayan&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmaeil-mashhadi)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-rayan)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/alchemist_man/)  
-[![CodeWars](https://www.codewars.com/users/Esmaeil-Mashhadi/badges/micro)](https://www.codewars.com/users/Esmaeil-Mashhadi)
+[![CodeWars](https://www.codewars.com/users/arash-rayan/badges/micro)](https://www.codewars.com/users/arash-rayan)
