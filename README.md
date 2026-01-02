@@ -1,7 +1,5 @@
 # Arash Rayan
-
-Aspiring **End-to-End AI Engineer** | Former Freelance Full-Stack Developer | Passionate about building intelligent solutions with data, deep learning, and scalable web technologies.
-
+AI Engineer | Deep Learning & Computer Vision & LLM | Background in Full-Stack Development
 ---
 
 ## 🧠 Skills & Specializations
