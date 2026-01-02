@@ -6,13 +6,13 @@ Aspiring **End-to-End AI Engineer** | Former Freelance Full-Stack Developer | Pa
 
 ## 🧠 Skills & Specializations
 
-- **Artificial Intelligence & Data Science:** Machine Learning, Deep Learning (TensorFlow, PyTorch, Keras), Data Analysis (Pandas, NumPy), Data Visualization (Matplotlib, Plotly, Streamlit), Model Deployment (Docker, FastAPI, Triton)
+- **Artificial Intelligence & Data Science:** Machine Learning, Deep Learning (TensorFlow, PyTorch, Keras), Data Analysis (Pandas, NumPy), Data Visualization (Matplotlib, Plotly, Streamlit), Model Deployment (Docker, FastAPI, Triton , vLLM)
 - **Computer Vision:** Image Segmentation, Classification, Object Detection, and related CV tasks
 - **NLP & RAG Systems:** LangChain, LangGraph, LangSmith for building retrieval-augmented generation pipelines
 - **Programming Languages:** Python, JavaScript, TypeScript
 - **Web Development (Background):** React, Next.js, Node.js, Express.js, Fastify, Socket.io
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Vector DBs (FAISS, ChromaDB, Pinecone)
-- **DevOps & Tools:** Linux, Docker, Git, DVC, Triton
+- **DevOps & Tools:** Linux, Docker, Git, DVC, Triton , vLLM
 
 ---
 
