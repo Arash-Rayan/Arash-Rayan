@@ -6,11 +6,13 @@ Aspiring **End-to-End AI Engineer** | Former Freelance Full-Stack Developer | Pa
 
 ## 🧠 Skills & Specializations
 
-- **Artificial Intelligence & Data Science:** Machine Learning, Deep Learning (TensorFlow, Keras), Data Analysis (Pandas, NumPy), Data Visualization (Matplotlib, Plotly , streamlit), Model Deployment (Docker, FastAPI , triton)
+- **Artificial Intelligence & Data Science:** Machine Learning, Deep Learning (TensorFlow, PyTorch, Keras), Data Analysis (Pandas, NumPy), Data Visualization (Matplotlib, Plotly, Streamlit), Model Deployment (Docker, FastAPI, Triton)
+- **Computer Vision:** Image Segmentation, Classification, Object Detection, and related CV tasks
+- **NLP & RAG Systems:** LangChain, LangGraph, LangSmith for building retrieval-augmented generation pipelines
 - **Programming Languages:** Python, JavaScript, TypeScript
 - **Web Development (Background):** React, Next.js, Node.js, Express.js, Fastify, Socket.io
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **DevOps & Tools:** Linux, Docker, Git , dvc , triton
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Vector DBs (FAISS, ChromaDB, Pinecone)
+- **DevOps & Tools:** Linux, Docker, Git, DVC, Triton
 
 ---
 
@@ -18,11 +20,16 @@ Aspiring **End-to-End AI Engineer** | Former Freelance Full-Stack Developer | Pa
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-00A8E8?style=flat-square&logo=facebook&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-5D4E75?style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
